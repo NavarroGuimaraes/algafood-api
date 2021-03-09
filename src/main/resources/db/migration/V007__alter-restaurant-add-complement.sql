@@ -1,0 +1,1 @@
+alter table restaurants add column address_complement varchar(160);
